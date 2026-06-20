@@ -1,0 +1,6 @@
+# temp scripts
+_*.py
+
+# system
+.DS_Store
+Thumbs.db
